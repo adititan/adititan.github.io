@@ -5,29 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details.
+Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details.  
+* and &dagger denote equal contributions.
 
-## Under review
+## Preprints
 
 ### **Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**  
 __Shuijing Liu__ *, Peixin Chang *, Zhe Huang, Neeloy Chakraborty, Weihang Liang, Junyi Geng, Katherine Driggs-Campbell.  
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2023.   
 [[Paper]](https://arxiv.org/abs/2203.01821)  
 
 ### **Learning Visual-Audio Representations for Voice-Controlled Robots**  
 Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Champbell.   
-In submission for Robotics and Automation Letters (RA-L).   
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2023.   
 [[Paper]](https://arxiv.org/abs/2109.02823)  
 
 ### **Occlusion-Aware Crowd Navigation Using People as Sensors**  
 Ye-Ji Mun, Masha Itkina, **Shuijing Liu**, and Katherine Driggs-Campbell.   
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.  
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2023.  
+[[Paper]](https://arxiv.org/abs/2210.00552)  
 
 ### **World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis**   
-Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Campbell.     
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
+Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Campbell.      
  
 ## Conference
+
+### **Combining Model-Based Controllers And Generative Adversarial Imitation Learning for Traffic Simulation**  
+Haonan Chen, Tianchen Ji, **Shuijing Liu**, and Katherine Driggs-Champbell.   
+To appear in IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022.  
 
 ### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
 **Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   

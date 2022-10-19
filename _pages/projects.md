@@ -32,8 +32,8 @@ We use a variational autoencoder with a specially designed loss function to lear
 We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
 We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
 To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.  
-<img src="/images/pas.png" width="300" />
-
+<img src="/images/pas_crowdnav.png" width="300" />
+[[Paper]](https://arxiv.org/abs/2210.00552) [[Video]](https://www.youtube.com/watch?v=BG5s7w5BdME) [[Code]](https://github.com/yejimun/PaS_CrowdNav)   
 
 ## Autonomous Driving
 
@@ -47,15 +47,25 @@ Our pipeline enables the autonomous vehicle to adjust its actions when dealing w
 
 <img src="/images/trait_opening.png" width="450" /> 
 
+### Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation  
+An accurate model of human drivers is essential to validate the performance of autonomous vehicles in multiagent and interactive scenarios. Previous works on human driver modeling either use model-based controllers that are not adaptive and need laborious parameter-tuning or learn an end-to-end black box model that has few safety guarantees.
+We propose a two-stage hybrid driver model, where a high-level neural network generates driver traits that are used as the parameters of the low-level model-based controllers for simulated drivers.
+We train our model using generative adversarial imitation learning with reward augmentation and parameter sharing from real-world vehicle trajectory data. By combining data-driven and model-based approaches, our method simulates traffic agents with expressive, safe, and human-like behaviors.
+We demonstrate that our method outperforms state-of-the-art baselines in terms of imitation performance and safety in a multi-agent highway driving scenario.   
+<img src="/images/itsc.jpg" width="450" /> 
 
 ## Instruction Following Robot
 
-### Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots
-Inspired by sensorimotor theory, we propose a novel pipeline for voice-controlled robots. 
-We learn a representation that associates images and sound commands with minimal supervision. 
-Using this representation, we generate an intrinsic reward function to learn robotic tasks with reinforcement learning. 
-We demonstrate our approach on three robot platforms, a TurtleBot3, a Kuka-IIWA arm, and a Kinova Gen3 robot, which hear a command word, identify the associated target object, and perform precise control to approach the target. 
-We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.   
+### Learning Visual-Audio Representations for Voice-Controlled Robots
+Inspired by sensorimotor theory, we propose a novel pipeline for task-oriented voice-controlled robots. 
+Previous method relies on a large amount of labels as well as task-specific reward functions. 
+Not only can such an approach hardly be improved after the deployment, but also has limited generalization across robotic platforms and tasks. 
+To address these problems, we learn a visual-audio representation (VAR) that associates images and sound commands with minimal supervision. 
+Using this representation, we generate an intrinsic reward function to learn robot policies with reinforcement learning, which eliminates the laborious reward engineering process. 
+We demonstrate our approach on various robotic platforms, where the robots hear an audio command, identify the associated target object, and perform precise control to fulfill the sound command. 
+We show that our method outperforms previous work across various sound types and robotic tasks even with fewer amount of labels. 
+We successfully deploy the policy learned in a simulator to a real Kinova Gen3. 
+We also demonstrate that our VAR and the intrinsic reward function allows the robot to improve itself using only a small amount of labeled data collected in the real world.   
 [[Paper]](https://arxiv.org/abs/2109.02823)    
 
 <img src="/images/rsi2_opening.png" width="800" />  
@@ -76,10 +86,11 @@ Recent studies find that independent navigation is especially difficult for peop
 The currently available tools for wayfinding are fairly limited to white canes, guide dogs, etc.
 Providing a robot guide that could facilitate wayfinding in a variety of environments would significantly improve the quality of life and, 
 most importantly, the independence of people with vision impairments. 
-Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.    
+Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.   
+[[Video]](https://www.youtube.com/watch?v=BS9r5bkIass&t=67s)
 
 <img src="/images/wayfinding.jpg" width="450" />    
-(Photo credit: Travis Kadylak)
+
 
 
 ## Computer Vision
