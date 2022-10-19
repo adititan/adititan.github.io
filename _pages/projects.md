@@ -34,6 +34,7 @@ We develop a deep reinforcement learning algorithm that incorporates the learned
 We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
 To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.   
 [[Paper]](https://arxiv.org/abs/2210.00552) [[Video]](https://www.youtube.com/watch?v=BG5s7w5BdME) [[Code]](https://github.com/yejimun/PaS_CrowdNav)   
+
 <img src="/images/pas_crowdnav.jpg" width="500" />
 
 ## Autonomous Driving
@@ -53,6 +54,7 @@ An accurate model of human drivers is essential to validate the performance of a
 We propose a two-stage hybrid driver model, where a high-level neural network generates driver traits that are used as the parameters of the low-level model-based controllers for simulated drivers.
 We train our model using generative adversarial imitation learning with reward augmentation and parameter sharing from real-world vehicle trajectory data. By combining data-driven and model-based approaches, our method simulates traffic agents with expressive, safe, and human-like behaviors.
 We demonstrate that our method outperforms state-of-the-art baselines in terms of imitation performance and safety in a multi-agent highway driving scenario.   
+
 <img src="/images/itsc.jpg" width="450" /> 
 
 ## Instruction Following Robot
