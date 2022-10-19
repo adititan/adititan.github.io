@@ -9,8 +9,8 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7u
 
 ## Preprints
 
-### **Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**  
-__Shuijing Liu__ *, Peixin Chang *, Zhe Huang, Neeloy Chakraborty, Weihang Liang, Junyi Geng, Katherine Driggs-Campbell.  
+### **Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph**  
+__Shuijing Liu__ *, Peixin Chang *, Zhe Huang, Neeloy Chakraborty, Kaiwen Hong, Weihang Liang, D. Livingston McPherson, Junyi Geng, Katherine Driggs-Campbell.  
 In submission for IEEE International Conference on Robotics and Automation (ICRA), 2023.   
 [[Paper]](https://arxiv.org/abs/2203.01821)  
 

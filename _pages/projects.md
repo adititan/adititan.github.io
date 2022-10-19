@@ -6,12 +6,13 @@ author_profile: true
 ---
 ## Robot Crowd Navigation
 
-### Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction  
-We study the problem of safe and socially aware robot navigation in dense and interactive human crowds.
-In this paper, we provide a more accurate representation of personal zones of walking pedestrians with their future trajectories. 
-The predicted personal zones are incorporated into a reinforcement learning framework to prevent the robot from intruding into the personal zones. 
-To learn socially aware navigation policies, we propose a novel recurrent graph neural network with attention mechanisms to capture the interactions among agents through space and time. 
-We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging crowd navigation scenarios.   
+### Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph  
+We study the problem of safe and intention-aware robot navigation in dense and interactive crowds. 
+Most previous reinforcement learning (RL) based methods fail to consider different types of interactions among all agents or ignore the intentions of people, which results in performance degradation. 
+We propose a novel recurrent graph neural network with attention mechanisms to capture heterogeneous interactions among agents through space and time. 
+To encourage longsighted robot behaviors, we infer the intentions of dynamic agents by predicting their future trajectories for several timesteps. 
+The predictions are incorporated into a model-free RL framework to prevent the robot from intruding into the intended paths of other agents. 
+We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging simulation and real-world scenarios.
 [[Paper]](https://arxiv.org/abs/2203.01821) [[Video]](https://www.youtube.com/watch?v=p_asv42Kl8Q)  
 
 <img src="/images/socialZone.png" width="450" />  
