@@ -32,7 +32,7 @@ We use a variational autoencoder with a specially designed loss function to lear
 We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
 We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
 To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.  
-<img src="/images/pas_crowdnav.png" width="300" />
+<img src="/images/pas_crowdnav.jpg" width="300" />
 [[Paper]](https://arxiv.org/abs/2210.00552) [[Video]](https://www.youtube.com/watch?v=BG5s7w5BdME) [[Code]](https://github.com/yejimun/PaS_CrowdNav)   
 
 ## Autonomous Driving
@@ -62,13 +62,11 @@ Previous method relies on a large amount of labels as well as task-specific rewa
 Not only can such an approach hardly be improved after the deployment, but also has limited generalization across robotic platforms and tasks. 
 To address these problems, we learn a visual-audio representation (VAR) that associates images and sound commands with minimal supervision. 
 Using this representation, we generate an intrinsic reward function to learn robot policies with reinforcement learning, which eliminates the laborious reward engineering process. 
-We demonstrate our approach on various robotic platforms, where the robots hear an audio command, identify the associated target object, and perform precise control to fulfill the sound command. 
-We show that our method outperforms previous work across various sound types and robotic tasks even with fewer amount of labels. 
-We successfully deploy the policy learned in a simulator to a real Kinova Gen3. 
+We demonstrate our approach on various robotic platforms, where the robots hear an audio command, identify the associated target object, and perform precise control to fulfill the sound command.
 We also demonstrate that our VAR and the intrinsic reward function allows the robot to improve itself using only a small amount of labeled data collected in the real world.   
 [[Paper]](https://arxiv.org/abs/2109.02823)    
 
-<img src="/images/rsi2_opening.png" width="800" />  
+<img src="/images/opening_iTHOR.png" width="450" />  
 
 ### Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
@@ -76,7 +74,7 @@ While previous methods use natural language processing to translate sound to tex
 deep neural network which directly learns control polices from images and sound signals.  
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)  
 
-<img src="/images/rsi_opening.png" width="800" />
+<img src="/images/rsi_opening.png" width="600" />
 
 
 ## Assistive Robotics 
