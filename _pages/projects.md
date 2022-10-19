@@ -31,9 +31,9 @@ We propose integrating such social inference techniques into the planning pipeli
 We use a variational autoencoder with a specially designed loss function to learn representations that are meaningful for occlusion inference. 
 We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
 We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
-To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.  
-<img src="/images/pas_crowdnav.jpg" width="300" />
+To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.   
 [[Paper]](https://arxiv.org/abs/2210.00552) [[Video]](https://www.youtube.com/watch?v=BG5s7w5BdME) [[Code]](https://github.com/yejimun/PaS_CrowdNav)   
+<img src="/images/pas_crowdnav.jpg" width="500" />
 
 ## Autonomous Driving
 
