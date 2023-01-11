@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Services
-Reviewer of RA-L, ICRA 2022, IROS 2022, ICRA 2023.  
+Reviewer of 
+- RA-L
+- ICRA 2020, 2022, 2023
+- IROS 2022
 
 ## Mentoring
 
