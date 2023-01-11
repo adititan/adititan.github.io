@@ -13,7 +13,7 @@ I'm a fifth year PhD student in [Human-Centered Autonomy Lab](https://publish.il
 [University of Illinois at Urbana Champaign](https://illinois.edu), 
 advised by Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
  My research primarily focuses on autonomous navigation in crowded and interactive environments using machine learning methods.
-I am also involved in a wide range of other projects, such as language understanding for robots, driver behavior simulation, and anormaly detection.
+I am also involved in a wide range of other projects, such as language understanding for robots, driver behavior simulation, and anomaly detection.
  My long term goal is to enable robots to interact and collaborate with people in daily life.   
  
 Previously, I earned my Bachelor's Degree in Computer Engineering from University of Illinois at Urbana Champaign in May 2018.

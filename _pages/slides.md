@@ -4,7 +4,7 @@ title: "Tutorials"
 permalink: /slides/
 author_profile: true
 ---
-Here are slides that summarize my PhD work:
+Here are slides that summarize my work:
 - PhD preliminary exam/thesis proposal, November 2022
   - [Robot Navigation in Interactive Environments with Structured Behavior Models](/files/prelim.pdf)
 - PhD candidacy qualifying exam, March 2020

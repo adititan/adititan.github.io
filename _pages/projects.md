@@ -47,6 +47,7 @@ Conditioned on the attention modules' outputs, a recurrent encoder-decoder archi
 Our model is trained end-to-end to minimize prediction loss on normal vehicle behaviors, and is deployed to detect anomalies in (ab)normal scenarios.
 The results of our method show that modeling environmental factors is essential to detecting a diverse set of anomalies in deployment.  
 [[Paper]](https://arxiv.org/abs/2301.03634) [[Website]](https://sites.google.com/illinois.edu/saber-vae) [[Code]](https://gitlab.engr.illinois.edu/hubris/highway-anomaly-detection)  
+
 <img src="/images/lane_discretization.png" width="450" />
 
 ### Learning to Navigate Intersections with Unsupervised Driver Trait Inference
@@ -64,6 +65,7 @@ An accurate model of human drivers is essential to validate the performance of a
 We propose a two-stage hybrid driver model, where a high-level neural network generates driver traits that are used as the parameters of the low-level model-based controllers for simulated drivers.
 We train our model using generative adversarial imitation learning with reward augmentation and parameter sharing from real-world vehicle trajectory data. By combining data-driven and model-based approaches, our method simulates traffic agents with expressive, safe, and human-like behaviors.
 We demonstrate that our method outperforms state-of-the-art baselines in terms of imitation performance and safety in a multi-agent highway driving scenario.   
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9922261)  
 
 <img src="/images/itsc.jpg" width="450" /> 
 
