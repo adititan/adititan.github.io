@@ -5,8 +5,10 @@ permalink: /slides/
 author_profile: true
 ---
 Here are slides that summarize my PhD work:
-- 2019-2022: [Robot Navigation in Interactive Environments with Structured Behavior Models](/files/prelim.pdf) (for PhD preliminary exam/thesis proposal)
-- 2019-2020: [Learning-Based Socially Aware Robot Crowd Navigation](/files/qual.pdf) (for PhD candidacy qualifying exam)
+- PhD preliminary exam/thesis proposal, November 2022
+  - [Robot Navigation in Interactive Environments with Structured Behavior Models](/files/prelim.pdf)
+- PhD candidacy qualifying exam, March 2020
+  - [Learning-Based Socially Aware Robot Crowd Navigation](/files/qual.pdf)
 
 Here are some tutorial slides I made for interesting papers/skills. 
 - Robust Adversarial Reinforcement Learning by Pinto et al.

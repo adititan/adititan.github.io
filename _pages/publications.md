@@ -28,7 +28,7 @@ In submission for IEEE International Conference on Robotics and Automation (ICRA
 ## Conference
 
 ### **Structural Attention-Based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection**  
-Neeloy Chakraborty, Aamir Hasan*, __Shuijing Liu__ *, Tianchen Ji*, Eric Liang, D. Livingston McPherson, and Katherine Driggs-Campbell  
+Neeloy Chakraborty, Aamir Hasan *, __Shuijing Liu__ *, Tianchen Ji *, Eric Liang, D. Livingston McPherson, and Katherine Driggs-Campbell  
 To appear in International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (**Full paper**)
 [[Paper]](https://arxiv.org/abs/2301.03634) [[Website]](https://sites.google.com/illinois.edu/saber-vae) [[Code]](https://gitlab.engr.illinois.edu/hubris/highway-anomaly-detection)  
 

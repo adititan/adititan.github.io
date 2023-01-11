@@ -12,7 +12,7 @@ Most previous reinforcement learning (RL) based methods fail to consider differe
 We propose a novel recurrent graph neural network with attention mechanisms to capture heterogeneous interactions among agents through space and time. 
 To encourage longsighted robot behaviors, we infer the intentions of dynamic agents by predicting their future trajectories for several timesteps. 
 The predictions are incorporated into a model-free RL framework to prevent the robot from intruding into the intended paths of other agents. 
-We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging simulation and real-world scenarios.
+We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging simulation and real-world scenarios.  
 [[Paper]](https://arxiv.org/abs/2203.01821) [[Video]](https://www.youtube.com/watch?v=p_asv42Kl8Q) [[Website]](https://sites.google.com/view/intention-aware-crowdnav/home) [[Code]](https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph)    
 
 <img src="/images/socialZone.png" width="450" />  
@@ -45,7 +45,7 @@ We propose a novel unsupervised framework for highway anomaly detection named St
 Specifically, we use a vehicle self-attention module to learn the relations among vehicles on a road, and a separate lane-vehicle attention module to model the importance of permissible lanes to aid in trajectory prediction. 
 Conditioned on the attention modules' outputs, a recurrent encoder-decoder architecture with a stochastic Koopman operator-propagated latent space predicts the next states of vehicles. 
 Our model is trained end-to-end to minimize prediction loss on normal vehicle behaviors, and is deployed to detect anomalies in (ab)normal scenarios.
-The results of our method show that modeling environmental factors is essential to detecting a diverse set of anomalies in deployment.
+The results of our method show that modeling environmental factors is essential to detecting a diverse set of anomalies in deployment.  
 [[Paper]](https://arxiv.org/abs/2301.03634) [[Website]](https://sites.google.com/illinois.edu/saber-vae) [[Code]](https://gitlab.engr.illinois.edu/hubris/highway-anomaly-detection)  
 <img src="/images/lane_discretization.png" width="450" />
 
