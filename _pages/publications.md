@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details. Equal contributions are denoted by * and &dagger. 
+Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details. Equal contributions are denoted by * and &dagger;. 
 
 ## Preprints
 
