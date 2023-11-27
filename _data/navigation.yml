@@ -1,22 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /home/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "50 Coffees"
+    url: /50coffees/
 
-  - title: "Services"
-    url: /teaching/
+  - title: "Blogs"
+    url: /blogs/
 
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Slides"
-    url: /slides/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-
+  - title: "Academic Profile"
+    url: /academicProfile/
