@@ -11,3 +11,6 @@ main:
 
   - title: "Academic Profile"
     url: /academicProfile/
+
+  - title: "Teaching"
+    url: /teaching/
