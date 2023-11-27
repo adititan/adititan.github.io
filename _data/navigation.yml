@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Home"
-    url: /home/
+  - title: "My Journey"
+    url: /myJourney/
+
+  - title: "Academic Profile"
+    url: /academicProfile/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "50 Coffees"
     url: /50coffees/
@@ -9,8 +15,5 @@ main:
   - title: "Blogs"
     url: /blogs/
 
-  - title: "Academic Profile"
-    url: /academicProfile/
-
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Portfolio"
+    url: /portfolio/

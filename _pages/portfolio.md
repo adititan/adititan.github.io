@@ -10,10 +10,3 @@ author_profile: true
 ## Drawing
 (Under construction)
 
-## Blogs
-(Under construction)
-
-
-## Photography
-(Under construction)
-
