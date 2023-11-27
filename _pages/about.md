@@ -12,7 +12,7 @@ Hello!
 
 Thank you for stopping by my website. Whether we've crossed paths before or you're a new visitor, I'm always open to connecting.
 
-At 29, I am navigating the twists and turns of life in the midst of discovering more about myself and fully embracing the curiosity that comes with it. While my grand goals by 30 may be a work in progress, I have no complaints about the course of my life's narrative so far.
+At 28, I am navigating the twists and turns of life in the midst of discovering more about myself and fully embracing the curiosity that comes with it. While my grand goals by 30 may be a work in progress, I have no complaints about the course of my life's narrative so far.
 
 If you're interested in my academic and professional profile, you can find those details here. But if you're curious to know a bit more about the person behind the resume, that's me here.
 
