@@ -18,8 +18,8 @@ If you're interested in my academic and professional profile, you can find those
 
 Recent News
 ---
-- **01/07/2023:** Moved to Chicago. I've never taken a better decision in my life.
-- **13/05/2023:** Graduated Masters. A little too late, a little too early.
+- **01/07/2023:** Moved to Chicago. I've NOT taken a better decision in my life.
+- **13/05/2023:** Graduated with a Masters. A little too late, a little too early.
 - **31/12/2023:** Lost 22 pounds, but only got 900 back. I finally understand what this body positivity is all about.
 - **01/07/2022:** Started a 1000$ bet with my brother to lose 22 pounds in 6 months. And the craziness begins.
 - **16/08/2021:** Moved to US with 3 bags and a lot of skepticism.
