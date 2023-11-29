@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Please find my CV here.  [here](/files/resume_1page.pdf).
+Please find my CV [here](/files/resume_1page.pdf).

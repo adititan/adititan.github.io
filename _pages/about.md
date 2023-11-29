@@ -21,9 +21,11 @@ to know a bit more about the person behind the resume, that's me here.
 
 Recent News
 ---
-- **01/07/2023:** Moved to Chicago. I've NOT taken a better decision in my life.
+- **01/07/2023:** Moved to Chicago, officially a big city girl now.
 - **13/05/2023:** Graduated with a Masters. A little too late, a little too early.
 - **31/12/2023:** Lost 22 pounds, but only got 900 back. I finally understand what this body positivity is all about.
+- **15/08/2022:** Rented an apartment of my own. Never felt more adult in life.
 - **01/07/2022:** Started a 1000$ bet with my brother to lose 22 pounds in 6 months. And the craziness begins.
 - **16/08/2021:** Moved to US with 3 bags and a lot of skepticism.
 - **13/08/2021:** Left a well-paying job. I am not bragging, just really sad.
+
