@@ -5,8 +5,6 @@ permalink: /52coffees/
 author_profile: true
 ---
 
-![Cover Photo](../images/52coffeesIMAGE.png)
-
 52 coffees is my creative experiment. The entire idea sparked [here](http://www.fiftycoffees.com/coffees), and it occurred to me that this could be the perfect opportunity for me to engage in conversations with familiar faces and new acquaintances, uncovering the twists and turns in their professional journeys. <br>
 Writing has always been my guide for sorting my thoughts and expressing myself. As an effort to improve my writing skills, I've chosen to present these conversations in the form of narrative blogs. My motivation behind this project is to engage into meaningful conversations, take in diverse experiences, weave compelling stories and may be learn a thing or two. The goal is also to discover and refine my own voice as I listen to your stories, one coffee at a time. The plan is to initially focus on people within my industry, with the eventual intention of expanding into related fields.
 
