@@ -17,11 +17,11 @@ the curiosity that comes with it. While my grand goals by 30 may be a work in pr
 course of my life's narrative so far.
 
 If you're interested in my academic and professional profile, you can find those details here. But if you're curious 
-to know a bit more about the person behind the resume, that's me here.
+to know a bit more about the person behind the resume, read below.
 
 Recent News
 ---
-- **01/07/2023:** Moved to Chicago, officially a big city girl now.
+- **01/07/2023:** Moved to Chicago. I am officially a big city girl now.
 - **13/05/2023:** Graduated with a Masters. A little too late, a little too early.
 - **31/12/2023:** Lost 22 pounds, but only got 900 back. I finally understand what this body positivity is all about.
 - **15/08/2022:** Rented an apartment of my own. Never felt more adult in life.

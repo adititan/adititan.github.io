@@ -1,12 +1,9 @@
 # main links links
 main:
-  - title: "My Journey"
-    url: /myJourney/
-
   - title: "Academic Profile"
     url: /academicProfile/
 
-  - title: "Teaching"
+  - title: "Giving Back"
     url: /teaching/
 
   - title: "50 Coffees"
