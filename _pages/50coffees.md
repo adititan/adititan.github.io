@@ -8,8 +8,8 @@ author_profile: true
 The motivation behind this project is to engage into meaningful conversations, absorb diverse experiences, weave compelling stories, learn a bit and a bit of networking too (a concept I never fully understood). Additionally, the goal is to discover and refine my own voice as I listen to your stories. Initially, the focus will be on individuals within my industry, with the eventual intention of expanding to include related fields.
 
 ## (1 / 52) Talked to Ehsan Khodabandeh on 22 November 2023
-#### Ehsan: Black coffee
-#### Me: Mini Chips Ahoy
+Ehsan: Black coffee
+Me: Mini Chips Ahoy
 
 As the Thanksgiving holidays approached, I found the perfect opportunity to kick-off the project that I’d been mulling over for the past couple of months. Though I have been working with Ehsan professionally for over a year now, each conversion with him brings fresh insights. His vibrant energy has inspired me since our first meeting when he interviewed me for the summer internship at Decision Spot. Since then, he has evolved into a mentor-like figure for me. When I decided to work on the 52CoffeesInOR project, Ehsan was the natural choice for the first interview not just because he is a familiar face who I felt comfortable asking for an interview, but also because I knew he would approach it with the seriousness and thoughtfulness it deserved.
 
@@ -28,8 +28,8 @@ We could not miss talking about the advantages offered by working at a smaller c
 We wrapped up our chat on an optimistic and forward-looking note, discussing Ehsan’s future goals. While he modestly outlined the projected trajectory of his career, I have no doubt he will exceed his own expectations in due course. “Never say Never,” he concluded, perfectly capturing his open-minded approach and positive outlook in life.
 
 Some Resources:
-- ![Subject. To. Podcast](https://open.spotify.com/show/2aicKZBwHWGDNCPTb46VWP) – Tune in to engaging discussions with influential figures in Operations Research.
-- ![OR Stack Exchange](https://or.stackexchange.com) – Ask any questions related to OR.
-- ![Discord Channel](https://discord.gg/k5AtFccjne) - a platform to network with relevant people.
-- ![Gurobi games and videos](https://www.gurobi.com/burrito-optimization-game/) – cool stuff for someone starting in the field.
-- ![Gurobi Webinars](https://www.gurobi.com/webinars/) - Specialized workshops designed to elevate your understanding of optimization.
+- [Subject. To. Podcast](https://open.spotify.com/show/2aicKZBwHWGDNCPTb46VWP) – Tune in to engaging discussions with influential figures in Operations Research.
+- [OR Stack Exchange](https://or.stackexchange.com) – Ask any questions related to OR.
+- [Discord Channel](https://discord.gg/k5AtFccjne) - a platform to network with relevant people.
+- [Gurobi games and videos](https://www.gurobi.com/burrito-optimization-game/) – cool stuff for someone starting in the field.
+- [Gurobi Webinars](https://www.gurobi.com/webinars/) - Specialized workshops designed to elevate your understanding of optimization.
