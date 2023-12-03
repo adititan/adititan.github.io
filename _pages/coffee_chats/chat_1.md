@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 *Ehsan: Black coffee*<br>
-*Me: Mini Chips Ahoy*
+*Me: Mini Chips Ahoy cookie*
 
 As the Thanksgiving holidays approached, I found the perfect opportunity to kick-off the project that I’d been mulling over for the past couple of months. Though I have been working with Ehsan professionally for over a year now, each conversion with him brings fresh insights. His vibrant energy has inspired me since our first meeting when he interviewed me for the summer internship at Decision Spot. Since then, he has evolved into a mentor-like figure for me. When I decided to work on the 52CoffeesInOR project, Ehsan was the natural choice for the first interview not just because he is a familiar face who I felt comfortable asking for an interview, but also because I knew he would approach it with the seriousness and thoughtfulness it deserved.
 
