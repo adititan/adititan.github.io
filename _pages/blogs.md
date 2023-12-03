@@ -4,4 +4,7 @@ title: "Blogs"
 permalink: /blogs/
 author_profile: true
 ---
-## Blog 1
+## - Originally published on ...
+
+
+## - Originally published on ....
