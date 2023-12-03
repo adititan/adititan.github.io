@@ -5,11 +5,11 @@ permalink: /50coffees/
 author_profile: true
 ---
 
-The motivation behind this project is to engage into meaningful conversations, absorb diverse experiences, weave compelling stories, learn a bit and a bit of networking too (a concept I don't fully understood). Additionally, the goal is to discover and refine my own voice as I listen to your stories. Initially, the focus will be on individuals within my industry, with the eventual intention of expanding to include related fields.
+The motivation behind this project is to engage into meaningful conversations, absorb diverse experiences, weave compelling stories, learn a bit and a bit of networking too (a concept I never fully understood). Additionally, the goal is to discover and refine my own voice as I listen to your stories. Initially, the focus will be on individuals within my industry, with the eventual intention of expanding to include related fields.
 
-## Ehsan Khodabandeh (1 / 52) - 22 November 2023
-# Ehsan: Black coffee
-# Me: Mini Chips Ahoy
+## (1 / 52) Talked to Ehsan Khodabandeh on 22 November 2023
+#### Ehsan: Black coffee
+#### Me: Mini Chips Ahoy
 
 As the Thanksgiving holidays approached, I found the perfect opportunity to kick-off the project that I’d been mulling over for the past couple of months. Though I have been working with Ehsan professionally for over a year now, each conversion with him brings fresh insights. His vibrant energy has inspired me since our first meeting when he interviewed me for the summer internship at Decision Spot. Since then, he has evolved into a mentor-like figure for me. When I decided to work on the 52CoffeesInOR project, Ehsan was the natural choice for the first interview not just because he is a familiar face who I felt comfortable asking for an interview, but also because I knew he would approach it with the seriousness and thoughtfulness it deserved.
 
@@ -26,3 +26,10 @@ Ehsan’s love for movies and storytelling peeked into our conversation as we we
 We could not miss talking about the advantages offered by working at a smaller company, like ours, over our experience at larger firms. While our experiences may not mirror every small firm, we have experienced firsthand how the culture at such companies is often shaped by its people, making it more a personal work environment. The flatter organizational structure typically found in smaller companies enhances approachability, which means employees can have greater visibility and significantly contribute to the firm’s success. Though Ehsan could not stop talking about how much he loves his role at Decision Spot, he did not shy away from acknowledging the challenges inherent to smaller companies. The proximity to decision making processes also translates to more responsibility and accountability for employees, which may not align with everyone’s preferences. The ‘high risk, high reward’ nature of small companies stands in stark contrast with the stability and security often felt in larger corporations. So, the choice largely boils down to individual goals, personality, and life circumstances. Ehsan also highlighted a unique challenge we face as a smaller company, particularly in uncertain economic times like today. The lack of brand recognition for smaller firms can create a catch-22 situation, as companies become hesitant to invest in new projects that can offer them increased efficiency in these times. The ongoing challenge for us is to convincingly articulate the importance of our work to potential clients despite these economic headwinds.
 
 We wrapped up our chat on an optimistic and forward-looking note, discussing Ehsan’s future goals. While he modestly outlined the projected trajectory of his career, I have no doubt he will exceed his own expectations in due course. “Never say Never,” he concluded, perfectly capturing his open-minded approach and positive outlook in life.
+
+Some Resources:
+- ![Subject. To. Podcast](https://open.spotify.com/show/2aicKZBwHWGDNCPTb46VWP) – Tune in to engaging discussions with influential figures in Operations Research.
+- ![OR Stack Exchange](https://or.stackexchange.com) – Ask any questions related to OR.
+- ![Discord Channel](https://discord.gg/k5AtFccjne) - a platform to network with relevant people.
+- ![Gurobi games and videos](https://www.gurobi.com/burrito-optimization-game/) – cool stuff for someone starting in the field.
+- ![Gurobi Webinars](https://www.gurobi.com/webinars/) - Specialized workshops designed to elevate your understanding of optimization.
