@@ -16,7 +16,7 @@ At 28, I am navigating the twists and turns of life in the midst of discovering 
 the curiosity that comes with it. While my grand goals by 30 may be a work in progress, I have no complaints about the 
 course of my life's narrative so far.
 
-If you're interested in my academic and professional profile, you can find those details here. But if you're curious 
+If you're interested in my academic and professional profile, you can find those details [here](academicProfile.md). But if you're curious 
 to know a bit more about the person behind the resume, read below.
 
 Recent News
