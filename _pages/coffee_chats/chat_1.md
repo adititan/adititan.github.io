@@ -5,9 +5,6 @@ permalink: /chat_1/
 author_profile: true
 ---
 
-*Ehsan: Black coffee*<br>
-*Me: Mini Chips Ahoy cookie*
-
 As the Thanksgiving holidays approached, I found the perfect opportunity to kick-off the project that I’d been mulling over for the past couple of months. Though I have been working with Ehsan professionally for over a year now, each conversion with him brings fresh insights. His vibrant energy has inspired me since our first meeting when he interviewed me for the summer internship at Decision Spot. Since then, he has evolved into a mentor-like figure for me. When I decided to work on the 52CoffeesInOR project, Ehsan was the natural choice for the first interview not just because he is a familiar face who I felt comfortable asking for an interview, but also because I knew he would approach it with the seriousness and thoughtfulness it deserved.
 
 Ehsan is a Principal Operations Research Scientist at Decision Spot. With over 7 years of experience working in the OR consulting space, Ehsan started his career at Opex Analytics when it was just 3 years into its inception. He also held roles at LLamasoft and Coupa Software, as the firm went through these acquisitions. In the fall of 2021, as Decision Spot was taking its first steps, Ehsan was the 1st person to join the team. Reflecting on his professional growth, he shared how his focus has shifted from working on single client projects in the initial stages of his career to now juggling multiple roles. Today, he works as a product developer, manages, and leads multiple projects, and gracefully embraces the role of HR within the firm. He is also the unofficial but enthusiastic head of our party planning committee - a role he takes as seriously as his other responsibilities.
