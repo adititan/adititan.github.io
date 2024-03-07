@@ -17,3 +17,4 @@ Writing has always been my guide for sorting my thoughts and expressing myself. 
 Here are the links to few conversations I've had:
 - [Ehsan Khodabandeh - 22 Nov 2023](coffee_chats/chat_1.md)
 - [Alok Patel - 14 Dec 2023](coffee_chats/chat_2.md)
+- [Ketki Kulkarni - 4 Feb 2023](coffee_chats/chat_3.md)
