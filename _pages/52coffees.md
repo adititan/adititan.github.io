@@ -15,6 +15,6 @@ Writing has always been my guide for sorting my thoughts and expressing myself. 
 *Step 4:* Post-chat, my pen gets to work, and your story takes the spotlight on this corner of the internet.
 
 Here are the links to few conversations I've had:
-- [Ehsan Khodabandeh - 22 Nov 2023](_posts/chat_1.md)
-- [Alok Patel - 14 Dec 2023](_posts/chat_2.md)
-- [Ketki Kulkarni - 4 Feb 2023](_posts/chat_3.md)
+- [Ehsan Khodabandeh - 22 Nov 2023](../_posts/chat_1.md)
+- [Alok Patel - 14 Dec 2023](../_posts/chat_2.md)
+- [Ketki Kulkarni - 4 Feb 2023](../_posts/chat_3.md)
