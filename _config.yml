@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "profile.jpeg"
+  avatar           :
   bio              : "Operations Research Scientist at Decision Spot"
   location         :
   employer         :
