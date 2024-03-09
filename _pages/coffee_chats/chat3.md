@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "(3/52) Ketki Kulkarni - 4 Feb 2024"
-permalink: /chat_3/
+permalink: /chat3/
 author_profile: true
 ---
 
