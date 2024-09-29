@@ -18,4 +18,4 @@ Here are the links to few conversations I've had:
 - [Ehsan Khodabandeh - 22 Nov 2023](coffee_chats/chat_1.md)
 - [Alok Patel - 14 Dec 2023](coffee_chats/chat_2.md)
 - [Ketki Kulkarni - 4 Feb 2024](coffee_chats/chat3.md)
-- [Fred Gardi - 8 Apr 2024](coffee_chat/chat4.md)
+- [Fred Gardi - 8 Apr 2024](coffee_chats/chat4.md)

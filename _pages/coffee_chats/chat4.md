@@ -2,7 +2,7 @@
 layout: archive
 title: "(4/52) Fred Gardi - 8 Apr 2024"
 permalink: /chat4/
-author_profile: true
+author_profile: false
 ---
 
 **Introduction**<br />
